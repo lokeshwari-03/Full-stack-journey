@@ -1,0 +1,28 @@
+body{
+    background-color:lightblue;
+    color:black;
+}
+h1{
+    color:black;
+    text-align:center;
+}
+p{
+    color:red;
+    font-size:20px;
+}
+ol{
+    color:blue;
+}
+form{
+    color:black;
+}
+table,th,td{
+    color:black;
+    border:2px solid white;
+    text-align:center;
+    
+}
+footer {
+    text-align: center;
+    font-size: 18px;
+}
