@@ -19,6 +19,11 @@ form{
     padding:70px;
     margin: 20px auto ;
     border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    justify-content:center;      
+    align-items: center;
 }
 table,th,td{
     color:black;
